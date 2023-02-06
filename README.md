@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **3D Modeling and Fabricating**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Embedded Systems and Physics**
 
-- 📫 How to reach me **rhysvennema@tamu.edu**
+- 📫 How to reach me **rhys.vennema@gmail.com**
 
 - 📄 Know about my experiences [https://sites.google.com/view/rhysvennema/home](https://sites.google.com/view/rhysvennema/home)
 
